@@ -1,0 +1,104 @@
+{
+  "turns": [
+    {
+      "roll": 6,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 1,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 2,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": true
+    },
+    {
+      "roll": 2,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": true
+    },
+    {
+      "roll": 3,
+      "answersCorrectly": true
+    },
+    {
+      "roll": 3,
+      "answersCorrectly": true
+    },
+    {
+      "roll": 3,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 1,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": true
+    },
+    {
+      "roll": 1,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 1,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 3,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 2,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 2,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 3,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 4,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 5,
+      "answersCorrectly": false
+    },
+    {
+      "roll": 3,
+      "answersCorrectly": false
+    }
+  ]
+}
