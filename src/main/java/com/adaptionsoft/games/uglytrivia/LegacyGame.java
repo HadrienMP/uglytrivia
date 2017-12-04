@@ -148,7 +148,7 @@ public class LegacyGame implements Game {
 			
 		} else {
 
-            log.add("Answer was corrent!!!!");
+            log.add("Answer was correct!!!!");
             purses[currentPlayer]++;
 			log.add(players.get(currentPlayer)
 					+ " now has "
